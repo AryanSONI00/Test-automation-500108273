@@ -217,8 +217,6 @@ Test-Automation-500108301/
 ![Screenshot](https://github.com/AryanSONI00/Test-automation-500108273/blob/debfc6e6ca1aa9d83ed58f926d94185f5cb386f9/docs/Screenshot%202025-03-31%20175021.png?raw=true)
 
 
-![GitHub Actions Artifacts](docs/artifacts.png)
-
 The GitHub Actions workflow generates and stores:
 
 -   Test execution reports
